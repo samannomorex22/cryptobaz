@@ -1,0 +1,1 @@
+vless://b4a79b87-94f3-4be5-a3b6-be7686ac5424@speed.cloudflare.com:2053?sni=oc.petshopmars.com&allowInsecure=1&security=tls&type=ws&path=/dwonload&host=oc.petshopmars.com#%D8%A7%D9%86%DA%AF%D9%84%DB%8C%D8%B3%20
