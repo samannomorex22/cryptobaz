@@ -1,2 +1,1 @@
-trojan://jjshdisidusjhdjeis-3962@cdn4.yhealths.com:8443?security=tls&type=ws&sni=discordapp.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+4
-trojan://jjshdisidusjhdjeis-3962@cdn7.yhealths.com:8443?security=tls&type=ws&sni=discordapp.com#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+7
+vless://9b34be47-6513-4d69-a418-4a6acc863431@mamba.bigdotbags.tech:25509?security=none&encryption=none&host=sourceforge.net&headerType=http&type=tcp#پیام
